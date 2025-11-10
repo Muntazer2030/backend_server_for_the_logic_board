@@ -1,0 +1,504 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "decorators",
+        "description": "decorators",
+        "isExtraImport": true,
+        "detail": "decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "isExtraImport": true,
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "users_bp",
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "isExtraImport": true,
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "MutableDict",
+        "importPath": "sqlalchemy.ext.mutable",
+        "description": "sqlalchemy.ext.mutable",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.mutable",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "peekOfCode": "def register():\n    data = request.get_json(force=True)\n    username = (data.get('username') or '').strip().lower()\n    password = data.get('password')\n    name = data.get('name')\n    role = data.get('role') or None\n    if not username or not password:\n        return jsonify({'msg': 'username and password required'}), 400\n    if User.query.filter_by(username=username).first():\n        return jsonify({'msg': 'user already exists'}), 400",
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "peekOfCode": "def login():\n    data = request.get_json(force=True)\n    username = (data.get('username') or '').strip().lower()\n    password = data.get('password')\n    if not username or not password:\n        return jsonify({'msg': 'username and password required'}), 400\n    user = User.query.filter_by(username=username).first()\n    if not user or not user.check_password(password):\n        return jsonify({'msg': 'invalid credentials'}), 401\n    access_token = create_access_token(identity=user.id)",
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "kind": 5,
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "peekOfCode": "auth_bp = Blueprint('auth', __name__)\n@auth_bp.route('/register', methods=['POST'])\ndef register():\n    data = request.get_json(force=True)\n    username = (data.get('username') or '').strip().lower()\n    password = data.get('password')\n    name = data.get('name')\n    role = data.get('role') or None\n    if not username or not password:\n        return jsonify({'msg': 'username and password required'}), 400",
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "me",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def me():\n    current_user_id = get_jwt_identity()\n    user = User.query.get(current_user_id)\n    if not user:\n        return jsonify({'msg': 'user not found'}), 404\n    out = user.to_dict()\n    out['profile'] = user.profile.to_dict() if user.profile else None\n    return jsonify(out)\n# Admin only: list users\n@users_bp.route('/', methods=['GET'])",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "list_users",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def list_users():\n    users = User.query.limit(200).all()\n    return jsonify([u.to_dict() for u in users])\n# Get user by id - admin or the user themself\n@users_bp.route('/<int:user_id>', methods=['GET'])\n@jwt_required()\ndef get_user(user_id):\n    current_user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def get_user(user_id):\n    current_user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return jsonify({'msg': 'user not found'}), 404\n    if current_user_id != user_id:\n    # not owner - allow only admin\n        current_user = User.query.get(current_user_id)\n    if not current_user or current_user.role != 'admin':\n        return jsonify({'msg': 'forbidden'}), 403",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_profile",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def get_profile():\n    current_user_id = get_jwt_identity()\n    profile = UserProfile.query.filter_by(user_id=current_user_id).first()\n    if not profile:\n        return jsonify({'msg': 'profile not found'}), 404\n    return jsonify(profile.to_dict())\n@users_bp.route('/profile', methods=['POST'])\n@jwt_required()\ndef create_profile():\n    current_user_id = get_jwt_identity()",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def create_profile():\n    current_user_id = get_jwt_identity()\n    data = request.get_json(force=True) or {}\n    if UserProfile.query.filter_by(user_id=current_user_id).first():\n        return jsonify({'msg': 'profile exists'}), 400\n    profile = UserProfile(user_id=current_user_id, bio=data.get('bio'), age=data.get('age'), extra=data.get('extra'))\n    db.session.add(profile)\n    db.session.commit()\n    return jsonify({'msg': 'profile updated', 'profile': profile.to_dict()})\n@users_bp.route('/profile', methods=['PUT'])",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_profile",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def update_profile():\n    current_user_id = get_jwt_identity()\n    data = request.get_json(force=True) or {}\n    profile = UserProfile.query.filter_by(user_id=current_user_id).first()\n    if not profile:\n        return jsonify({'msg': 'profile not found'}), 404\n    profile.bio = data.get('bio', profile.bio)\n    profile.age = data.get('age', profile.age)\n    profile.extra = data.get('extra', profile.extra)\n    db.session.commit()",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "delete_profile",
+        "kind": 2,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "def delete_profile():\n    current_user_id = get_jwt_identity()\n    profile = UserProfile.query.filter_by(user_id=current_user_id).first()\n    if not profile:\n        return jsonify({'msg': 'profile not found'}), 404\n    db.session.delete(profile)\n    db.session.commit()\n    return jsonify({'msg': 'profile deleted'})",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "users_bp",
+        "kind": 5,
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "peekOfCode": "users_bp = Blueprint('users', __name__)\n# Get current user info\n@users_bp.route('/me', methods=['GET'])\n@jwt_required()\ndef me():\n    current_user_id = get_jwt_identity()\n    user = User.query.get(current_user_id)\n    if not user:\n        return jsonify({'msg': 'user not found'}), 404\n    out = user.to_dict()",
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def create_app(config_object: str = None):\n    app = Flask(__name__)\n    app.config.from_object(config_object or Config)\n    # initialize extensions\n    db.init_app(app)\n    jwt.init_app(app)\n    # register blueprints\n    app.register_blueprint(auth_bp, url_prefix='/auth')\n    app.register_blueprint(users_bp, url_prefix='/users')\n    @app.route('/')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Config:\n    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URI')\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY',)\n    JWT_ACCESS_TOKEN_EXPIRES = timedelta(hours=2)\n    # Optional: role names\n    ROLE_ADMIN = 'admin'\n    ROLE_USER = 'user'",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "kind": 2,
+        "importPath": "decorators",
+        "description": "decorators",
+        "peekOfCode": "def role_required(*allowed_roles):\n    def decorator(fn):\n        @wraps(fn)\n        def wrapper(*args, **kwargs):\n            user_id = get_jwt_identity()\n            if not user_id:\n                return jsonify({'msg': 'missing jwt identity'}), 401\n            user = db.session.get(User, user_id)\n            if not user:\n                return jsonify({'msg': 'user not found'}), 404",
+        "detail": "decorators",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "extensions",
+        "description": "extensions",
+        "peekOfCode": "db = SQLAlchemy()\njwt = JWTManager()",
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "extensions",
+        "description": "extensions",
+        "peekOfCode": "jwt = JWTManager()",
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True, autoincrement=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)\n    name = db.Column(db.String(120))\n    role = db.Column(db.String(20), default=\"user\")\n    password_hash = db.Column(db.String(200))\n    profile = db.relationship('UserProfile', backref='user', uselist=False, cascade='all, delete-orphan')\n    def set_password(self, password):\n        self.password_hash = generate_password_hash(password)",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "JSONEncodedDict",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class JSONEncodedDict(db.TypeDecorator):\n    impl = Text\n    def process_bind_param(self, value, dialect):\n        if value is None:\n            return None\n        return json.dumps(value)\n    def process_result_value(self, value, dialect):\n        if value is None:\n            return None\n        return json.loads(value)",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class UserProfile(db.Model):\n    __tablename__ = 'user_profiles'\n    id = db.Column(db.Integer, primary_key=True)\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id', ondelete='CASCADE'), nullable=False, unique=True)\n    #bio = db.Column(db.Text, nullable=True)\n    #age = db.Column(db.Integer, nullable=True)\n    extra = db.Column(JSONEncodedDict)\n    updated_at = db.Column(db.DateTime, default=datetime.now(), onupdate=datetime.now())\n    def to_dict(self):\n        return {",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "app = create_app(Config)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port=5000, debug=True)",
+        "detail": "run",
+        "documentation": {}
+    }
+]
