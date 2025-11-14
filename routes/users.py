@@ -80,7 +80,9 @@ def create_profile():
     data = request.get_json(force=True) or {}
     if UserProfile.query.filter_by(user_id=current_user_id).first():
         return jsonify({'msg': 'profile exists'}), 400
-    profile = UserProfile(user_id=current_user_id, bio=data.get('bio'), age=data.get('age'), extra=data.get('extra'))
+    profile = UserProfile(user_id=current_user_id, 
+                          #bio=data.get('bio'), age=data.get('age'),
+                          extra=data.get('extra'))
     db.session.add(profile)
     db.session.commit()
     return jsonify({'msg': 'profile updated', 'profile': profile.to_dict()})
@@ -93,8 +95,8 @@ def update_profile():
     profile = UserProfile.query.filter_by(user_id=current_user_id).first()
     if not profile:
         return jsonify({'msg': 'profile not found'}), 404
-    profile.bio = data.get('bio', profile.bio)
-    profile.age = data.get('age', profile.age)
+    #profile.bio = data.get('bio', profile.bio)
+    #profile.age = data.get('age', profile.age)
     profile.extra = data.get('extra', profile.extra)
     db.session.commit()
     return jsonify({'msg': 'profile updated', 'profile': profile.to_dict()})

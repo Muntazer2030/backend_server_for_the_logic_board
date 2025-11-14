@@ -16,8 +16,12 @@ def register():
     name = data.get('name')
     role = data.get('role') or None
 
-    if not username or not password:
-        return jsonify({'msg': 'username and password required'}), 400
+    if not username :
+        return jsonify({'msg': 'username is required'}), 400
+    if not password:
+        return jsonify({'msg': 'password is required'}), 400
+    if not name:
+        return jsonify({'msg': 'name is required'}), 400
 
 
     if User.query.filter_by(username=username).first():
